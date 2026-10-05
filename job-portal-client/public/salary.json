@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "salary": "$90k–$130k/year",
+    "skills": "React.js, TypeScript, Tailwind CSS, Next.js, GraphQL, Redux, Jest, Web Performance",
+    "demand": "Very High",
+    "growth": "+18%"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "salary": "$100k–$150k/year",
+    "skills": "Node.js, Python, Java, PostgreSQL, MongoDB, REST APIs, Docker, AWS, Redis",
+    "demand": "High",
+    "growth": "+22%"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "salary": "$100k–$150k/year",
+    "skills": "React, Node.js, MongoDB, TypeScript, Docker, CI/CD, AWS, System Design",
+    "demand": "Very High",
+    "growth": "+25%"
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "salary": "$110k–$160k/year",
+    "skills": "Kubernetes, Docker, Terraform, Jenkins, AWS, Azure, GitOps, Python, Linux",
+    "demand": "High",
+    "growth": "+30%"
+  },
+  {
+    "id": 5,
+    "title": "Data Scientist",
+    "salary": "$105k–$160k/year",
+    "skills": "Python, TensorFlow, PyTorch, SQL, Spark, Scikit-learn, Pandas, Deep Learning, Statistics",
+    "demand": "Very High",
+    "growth": "+28%"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Engineer",
+    "salary": "$130k–$190k/year",
+    "skills": "PyTorch, TensorFlow, MLOps, Feature Engineering, Distributed Computing, LLMs, Python, Scala",
+    "demand": "Extremely High",
+    "growth": "+42%"
+  },
+  {
+    "id": 7,
+    "title": "Cloud Architect",
+    "salary": "$150k–$220k/year",
+    "skills": "AWS, Azure, GCP, Kubernetes, Terraform, Microservices, Cost Optimization, Security, Networking",
+    "demand": "High",
+    "growth": "+35%"
+  },
+  {
+    "id": 8,
+    "title": "Cybersecurity Analyst",
+    "salary": "$85k–$130k/year",
+    "skills": "Penetration Testing, SIEM, OWASP, Incident Response, Threat Modelling, ISO 27001, Python, Nessus",
+    "demand": "Very High",
+    "growth": "+32%"
+  },
+  {
+    "id": 9,
+    "title": "UI/UX Designer",
+    "salary": "$75k–$120k/year",
+    "skills": "Figma, Prototyping, User Research, Design Systems, Accessibility, A/B Testing, Adobe XD, Zeplin",
+    "demand": "High",
+    "growth": "+15%"
+  },
+  {
+    "id": 10,
+    "title": "Product Manager",
+    "salary": "$120k–$180k/year",
+    "skills": "Roadmapping, SQL, Agile, OKRs, User Research, Stakeholder Management, Jira, Analytics",
+    "demand": "High",
+    "growth": "+20%"
+  },
+  {
+    "id": 11,
+    "title": "Mobile Developer (iOS/Android)",
+    "salary": "$100k–$155k/year",
+    "skills": "Swift, Kotlin, React Native, Flutter, REST APIs, Core Data, Android SDK, App Store Optimization",
+    "demand": "High",
+    "growth": "+18%"
+  },
+  {
+    "id": 12,
+    "title": "Blockchain Developer",
+    "salary": "$120k–$190k/year",
+    "skills": "Solidity, Ethereum, Web3.js, Smart Contracts, Rust, DeFi, NFT Standards, Hyperledger",
+    "demand": "Moderate",
+    "growth": "+12%"
+  },
+  {
+    "id": 13,
+    "title": "Site Reliability Engineer (SRE)",
+    "salary": "$120k–$180k/year",
+    "skills": "Golang, Python, Prometheus, Grafana, Kubernetes, Incident Management, SLOs, Chaos Engineering",
+    "demand": "Very High",
+    "growth": "+27%"
+  },
+  {
+    "id": 14,
+    "title": "Data Engineer",
+    "salary": "$110k–$165k/year",
+    "skills": "Apache Spark, Airflow, dbt, Python, Kafka, Snowflake, BigQuery, Databricks, SQL",
+    "demand": "Very High",
+    "growth": "+29%"
+  },
+  {
+    "id": 15,
+    "title": "QA / SDET Engineer",
+    "salary": "$80k–$125k/year",
+    "skills": "Selenium, Playwright, Cypress, Python, Java, API Testing, Performance Testing, Test Planning",
+    "demand": "Moderate",
+    "growth": "+10%"
+  },
+  {
+    "id": 16,
+    "title": "Technical Lead / Architect",
+    "salary": "$150k–$220k/year",
+    "skills": "System Design, Distributed Systems, Architecture Patterns, Code Review, Mentoring, Java / Go / Python",
+    "demand": "High",
+    "growth": "+23%"
+  }
+]
