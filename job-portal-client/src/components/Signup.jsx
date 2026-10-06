@@ -322,7 +322,7 @@ const Signup = () => {
                     className="mt-1 w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
                   />
                   <span className="text-sm text-gray-700">
-                    I agree to the Bdjobs.com Terms of use.{' '}
+                    I agree to the JobNest Terms of use.{' '}
                     <a href="#" className="text-blue-600 hover:underline">
                       Terms & Conditions
                     </a>
@@ -337,7 +337,7 @@ const Signup = () => {
                     className="mt-1 w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
                   />
                   <span className="text-sm text-gray-700">
-                    Subscribe to Bdjobs Newsletter.
+                    Subscribe to JobNest Newsletter.
                   </span>
                 </label>
               </div>
